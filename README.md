@@ -11,6 +11,7 @@ Se utilizó Webpack como bundler y se instaló:
 - Reactstrap
 - Bootstrap
 - Axios
+***
 ## Iconos:
 - Fortawesome
 - Fontawesome
