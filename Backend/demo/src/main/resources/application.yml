@@ -1,0 +1,12 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://devJrsTeam:46hv5i1*GlNn@192.168.8.18:27017/Exam?authSource=Exam&appName=dev-DN
+
+#spring.data.mongodb.authentication-database=none
+#spring.data.mongodb.database=Exam/proj_TM
+#spring.data.mongodb.port=27017
+#spring.data.mongodb.host=192.168.8.18
+
+
+
