@@ -6,7 +6,7 @@ Aplicación CRUD, las carpetas Backend y Frontend se encuentran en la rama cread
 - JavaScript-React JS / Frontend
 - Java-Spring / Backend
 ***
-## Dependencias utilizadas
+## Tecnologías adicionales utilizadas
 Se utilizó Webpack como bundler y se instaló:
 - Reactstrap
 - Bootstrap
